@@ -1,0 +1,9 @@
+# RTL Agent Pipeline - Python dependencies
+google-generativeai>=0.8.0
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+
+# System tools (install separately):
+# - iverilog (Icarus Verilog): apt install iverilog
+# - yosys: apt install yosys  OR  OSS CAD Suite
+# - graphviz (for Yosys show): apt install graphviz
